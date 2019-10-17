@@ -19,13 +19,15 @@ Solução para o desafio de Backend Developer da Cognitivo.AI
 
 ## Execução
 
-Instalar dependências
+### 1. Instalar dependências
 
 ```
 $ pip install -r requirements.txt
 ```
 
-Rodar o script em `src/main.py`
+### 2. Crie um arquivo `.env` na raiz do projeto com as chaves de API do Twitter como no arquivo de exemplo `env.example`
+
+### 3. Rodar o script em `src/main.py`
 
 ```
 $ python src/main.py
